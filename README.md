@@ -1,3 +1,5 @@
+This is a tutorial from pluralsight.com, which Bunker show how to be performance with Spring Data Rest for a guitar project.
+
 ps-guitar-rest
 ============
 
